@@ -32,6 +32,7 @@
       }
     </style>
 
+    <?php include('fav.php');?>
   </head>
 
   <body>
